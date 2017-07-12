@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Excited about transitioning to a career in Data Science
+Excited to be transitioning into Data Science.
   Former Public School Teacher (AP Physics C, AP Physics 1, Engineering), Berkeley ATDP Instructor
   , Industrial Control Systems Engineer, Astophysical Researcher.
 
@@ -21,5 +21,7 @@ real world is required.
 ### Contact me
 
 [daniel_licht@letterboxes.org](mailto:daniel_licht@letterboxes.org)
-or
-[lichtphyz@gmail.com](mailto:lichtphyz@gmail.com) for Google invites, etc.
+510-316-2426
+
+but for Google invites, etc. you can use:
+[lichtphyz@gmail.com](mailto:lichtphyz@gmail.com)
