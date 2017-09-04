@@ -4,19 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Excited to be transitioning into Data Science.
+Very excited to be transitioning into Data Science this fall.
   Former Public School Teacher (AP Physics C, AP Physics 1, Engineering), Berkeley ATDP Instructor
-  , Industrial Control Systems Engineer, Astophysical Researcher.
+  , Industrial Control Systems Engineer, Astophysical Researcher, and lover of problem solving with data, explaining technical processes to anyone interested, and helping machines learn to do new tricks.
 
 ### Professional Interests
 
 Machine Learning:
-  Particularly working with image and video data
+  Particularly working with sensor, image and video data
   Natural Language Processing
-  Deep Learning
 
 Analysis and Interpretation of Data, particularly where a strong intuition to the
 real world is required.
+
+### [Resume](https://resume.creddle.io/embed/c8aiqli09p4)
 
 ### Contact me
 
