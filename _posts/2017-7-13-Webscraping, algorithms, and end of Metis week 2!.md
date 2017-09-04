@@ -1,9 +1,3 @@
----
-layout: Post
-title: Webscraping, algorithms, and end of Metis week 2!
----
-
-
 ### Approaching the end of Metis Data Science Bootcamp, week 2.
 
 I just hit go on downloading 5000 webpages off [steampowered.com](steampowered.com) (a PC store/hosting service, "Steam"), that I will scrape tomorrow to get the data for my Metis "Luther" project.  They have a surpisingly thurough 'stats' [subdivision of their website](https://steamdb.info/app/72850/) for me to pull data from.  I even set a delay of 5 seconds between pulling each page in hopes of avoid getting booted off the site.  We will see in the morning how it worked out.  [update:  got denied after the first 300 but found a work-around Friday morning by randomizig my access interval]
