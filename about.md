@@ -21,8 +21,11 @@ real world is required.
 
 ### Contact me
 
-[daniel_licht@letterboxes.org](mailto:daniel_licht@letterboxes.org)
-510-316-2426
+email: [daniel_licht@letterboxes.org](mailto:daniel_licht@letterboxes.org)
 
-but for Google invites, etc. you can use:
+*or*
+
+phone: *(see Resume above)*
+
+for Google invites, etc. instead use:
 [lichtphyz@gmail.com](mailto:lichtphyz@gmail.com)
