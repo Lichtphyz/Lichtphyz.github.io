@@ -16,6 +16,8 @@ I think the presentation went over a lot better than my last couple, tried to fo
 
 ### I've added a few preview pictures below, as well as links to my d3.js *interactive* versions on Blockbuilder.org which are a lot more fun to look at!
 
+- note: the colors on the interaction webs are set by one of the clustering algoriths and are *not* random.  See [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQI12pBd5YJu_Un6LCz_z0nfKutBcjuttQeyLiNrsyORLuqkFzbiMVg5jW4Rlhzz8RB-KTBwi-KJXsj/pub?start=false&loop=false&delayms=10000) for more information.
+
 Game of Thrones (A Song of Ice and Fire, all 5 books):   [Interaction Web](https://bl.ocks.org/Lichtphyz/605c321a7714be62d15e76ff98cd3791/e93fa9b1cdabb71a612b3f113218248c2fcc1795)    &    [Narrative Map](https://bl.ocks.org/Lichtphyz/raw/61c7c92f7ab5d020cd6fb06ce25d1205/5d6fa8020d3ec19850d9d0b5613cab04fe48b189/) . (also, [here is an unfinished d3 confusion matrix](http://bl.ocks.org/Lichtphyz/88ba061011589c805eb016d0f9d61a79/5f9a16cb8f32c8d0af3713fa45e252dff80ea74a), but at the moment there is still a problem with the interactions --> color density mapping)
 
 Lord of the Rings (original trilogy):   [Interaction Web](https://bl.ocks.org/Lichtphyz/559dad1ad39212656b874805a52efd3b/a5a76c44261b5cbbd8d9393f4c0827177d53e524)    &    [Narrative Map](https://bl.ocks.org/Lichtphyz/raw/db53a0180db3b98697bb2b1359dd4373/b0eea6e16a7027bfd407cdbe5dda8572d2815a2a/)
