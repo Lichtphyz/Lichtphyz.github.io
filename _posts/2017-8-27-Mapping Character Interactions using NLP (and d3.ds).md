@@ -22,8 +22,11 @@ Lord of the Rings (original trilogy):   [Interaction Web](https://bl.ocks.org/L
 
 **The Histories of Herodotus Herodotus: 440 B.C.E.** (English Translation) :  [Interaction Web](https://bl.ocks.org/Lichtphyz/1810b3f2fe6bf09a6896c8610a3983da/265858417daee9380dd426c3fce34d4a3c936ac5 
 
+### Game of Thrones Narrative Chart (all 5 books)
 <img src="../images/GoT_Narrative_Chart_preview.png">
 
+### Lord of the Rings Interaction Web (all 3 books)
 <img src="../images/LofR_web_preview.png">
 
+### The Histories of Herodotus Herodotus: 440 B.C.E.
 <img src="../images/Herodotus_web_preview.png">
