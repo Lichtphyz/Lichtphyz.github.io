@@ -13,6 +13,7 @@ Or to be more specific I employed a unsupervise clustering agorithm called DBSCA
 I'm sure it will need a little more tuning, but I think it's extremely cool how well this works for such a simple method.
 
 ### Example of unsupervised training mask 'improvement':
+###### (please excuse the typo, this is a work in progress)
 <img src="../images/Screen Shot 2017-09-08 at 4.42.07 PM.png">
 <img src="../images/Screen Shot 2017-09-08 at 4.42.31 PM.png">
 <img src="../images/Screen Shot 2017-09-08 at 4.42.44 PM.png">
