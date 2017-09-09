@@ -1,5 +1,6 @@
+<img src="../images/Screen Shot 2017-09-08 at 4.42.44 PM.png">
 ### Many highs and lows this week.
-###### (If you want to see cool pictures, scroll to the end!)
+###### (If you want to see more cool pictures, scroll to the end!)
 
 Good news:  I have all the Geospacial tools working, and a U-net I can train.
 Bad news:  The [MDA Flood Analysis Shapefile](https://www.digitalglobe.com/opendata/hurricane-harvey/vector-data) I was going to use for my labels turned out not to be very reliable.  There are lots of little false positives, it is very low resolution compaired to the images, and huge amounts of flooding are missed.  Training the U-net on it didn't work well at all.
