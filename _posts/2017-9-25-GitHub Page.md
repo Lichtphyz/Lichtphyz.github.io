@@ -1,6 +1,4 @@
 
-
-
 ### I have cleaned up the Houston Flooding segmenation project's [GitHub page](https://github.com/Lichtphyz/Houston_flooding) a bit to make everything more presentable.
 
 Please go take a look and/or contact if me if you are interested in learning more.  I am always happy to discuss the project, it's limitations, my burning ideas on how to overcome them, or anything else data science/imagery related.
