@@ -11,13 +11,14 @@ Very excited to be transitioning into Data Science this fall.
 ### Professional Interests
 
 Machine Learning:
-  Particularly working with sensor, image and video data
+  Particularly working with sensor, image and video data (including geophysical and satellite data)
   Natural Language Processing
+  Fraud Prevention and other data as a public service
 
 Analysis and Interpretation of Data, particularly where a strong intuition to the
 real world is required.
 
-### [Resume](https://resume.creddle.io/embed/c8aiqli09p4)
+### [Resume](https://resume.creddle.io/resume/c8aiqli09p4)
 
 ### Contact me
 
